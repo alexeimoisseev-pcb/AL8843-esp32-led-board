@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AL8843QSP-13
+D AUTOMOTIVE COMPLIANT 40V 3A STEP-DOWN LED DRIVER
+K
+F https://www.diodes.com/assets/Datasheets/AL8843Q.pdf
+$ENDCMP
+#
+#End Doc Library
